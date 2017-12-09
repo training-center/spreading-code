@@ -14,6 +14,7 @@ Unindo pessoas que querem fazer a diferença no futuro de nossas crianças, adol
 - [Por que presencial](#por-que-presencial)
 - [O que fazemos](#o-que-fazemos)
 - [Como se juntar a causa](#como-se-juntar-a-causa)
+    - [Quem pode se juntar](#quem-pode-se-juntar)
 - [Cedendo espaço](#cedendo-espaço)
     - [O que precisamos no local](#o-que-precisamos-no-local)
 - [Como nos ajudar](#como-nos-ajudar)
@@ -30,6 +31,8 @@ Unindo pessoas que querem fazer a diferença no futuro de nossas crianças, adol
 ## O que fazemos
 
 ## Como se juntar a causa
+
+### Quem pode se juntar
 
 ## Cedendo espaço
 
