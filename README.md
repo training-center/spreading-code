@@ -86,6 +86,8 @@ Qualquer pessoa com vontade de fazer a diferença na vida de alguém pode se jun
 
 ## Cedendo espaço
 
+Se você faz parte do corpo administrativo de alguma escola pública, ONG, empresa, faculdade ou espaço recreativo que possa receber nossas palestras e workshops, entre em contato através deste formulário: [Espaço para palestras e workshops](https://trainingcentr.typeform.com/to/g4u160).
+
 ### O que precisamos no local
 
 ## Como nos ajudar
