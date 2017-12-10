@@ -98,3 +98,24 @@ Precisamos chegar as pessoas que não conhecem as comunidades de desenvolvimento
 Você pode tentar conseguir um espaço para o nosso projeto entrando em contato com seus/suas conhecidos(as) que possuem acesso a algum espaço e encaminhar à eles este formulário: [Espaço para palestras e workshops](https://trainingcentr.typeform.com/to/g4u160).
 
 ### Apoio ou patrocínio
+
+Você pode apoiar ou patrocinar nosso projeto para os seguintes fins:
+
+**Apoio**
+
+- doação de brindes (de sua marca)
+- divulgação nas redes de sua empresa/comunidade
+- emprestando equipamentos (notebooks, projetor e/ou som)
+
+**Patrocínio**
+
+- coffee break para encontros mais demorados
+- confecção de camisetas do projeto
+- confecção de adesivos do projeto
+- confecção de folders para divulgação do projeto
+
+Basta responder este formulário: [Patrocinando o spreading-code](https://trainingcentr.typeform.com/to/nPtxY6)
+
+---
+
+Conheça mais sobre o Training Center: [sobre nós](https://trainingcenter.io/sobre/)
