@@ -72,6 +72,10 @@ Somos fáceis de sermos encontrados (comunidades no geral) por pessoas que já t
 
 ## O que fazemos
 
+- palestras em escolas públicas e faculdades
+- workshops de programação
+- qualquer coisa que ajude pessoas a entrarem na área de desenvolvimento
+
 ## Como se juntar a causa
 
 ### Quem pode se juntar
