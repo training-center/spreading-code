@@ -78,7 +78,11 @@ Somos fáceis de sermos encontrados (comunidades no geral) por pessoas que já t
 
 ## Como se juntar a causa
 
+Basta responder este formulário: [voluntariado spreading-code](https://trainingcentr.typeform.com/to/zbiDtG)
+
 ### Quem pode se juntar
+
+Qualquer pessoa com vontade de fazer a diferença na vida de alguém pode se juntar a nossa causa. Só é necessário que se leia e respeite nosso [código de conduta](https://trainingcenter.io/sobre/CONDUCT), pois devemos garantir a segurança das pessoas envolvidas no projeto e das pessoas que receberão ajuda.
 
 ## Cedendo espaço
 
