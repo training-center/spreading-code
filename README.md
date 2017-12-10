@@ -57,7 +57,7 @@ Nós queremos unir pessoas das comunidades para:
 
 ## Por que presencial
 
-A maioria das pessoas que realmente precisam de apoio não estão inceridas em comunidades de desenvolvimento de software.
+A maioria das pessoas que realmente precisam de apoio não estão inseridas em comunidades de desenvolvimento de software.
 
 Quando vamos a meetups, eventos ou fazemos algo online percebemos que temos sempre os mesmos grupos de pessoas participando e raramente um rosto novo.
 
