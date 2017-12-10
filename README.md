@@ -60,6 +60,16 @@ Nós queremos unir pessoas das comunidades para:
 
 ## Por que presencial
 
+A maioria das pessoas que realmente precisam de apoio não estão inceridas em comunidades de desenvolvimento de software.
+
+Quando vamos a meetups, eventos ou fazemos algo online percebemos que temos sempre os mesmos grupos de pessoas participando e raramente um rosto novo.
+
+Pessoas que tem potencial e vontade de aprender sobre desenvolvimento de software estão ficando de fora disso por não conhecerem o poder das comunidades.
+
+Não estamos chegando a todas as pessoas e não é por má vontade delas, mas sim por um problema de divulgação.
+
+Somos fáceis de sermos encontrados (comunidades no geral) por pessoas que já tem algum direcionamento ou sabem sobre e como pesquisar na internet, mas estamos pecando em trazer pessoas do zero para a programação. Fora esse cenário, ainda temos pessoas nas faculdades que não recebem direcionamento de seus professores e professoras sobre a importância de estarem em comunidades e por isso não adquirem o conhecimento real que o mercado de trabalho busca.
+
 ## O que fazemos
 
 ## Como se juntar a causa
