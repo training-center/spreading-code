@@ -22,7 +22,6 @@ Queremos incentivar jovens a conhecerem a área de desenvolvimento e pessoas na 
 - [Como nos ajudar](#como-nos-ajudar)
     - [Divulgando nosso projeto](#divulgando-nosso-projeto)
     - [Conseguindo espaço](#conseguindo-espaço)
-    - [Conseguindo contatos](#conseguindo-contatos)
     - [Apoio](#apoio)
     - [Patrocínio](#patrocínio)
 
@@ -91,9 +90,13 @@ Se você faz parte do corpo administrativo de alguma escola pública, ONG, empre
 
 ### Divulgando nosso projeto
 
+Você pode divulgar este projeto em suas redes sociais, para seus amigos e amigas, para familiáres, para pessoas que trabalham em escolas públicas, ONG's, faculdades, empresas que podem ceder espaço, espaços recreativos, etc. Isso já é uma ajuda imensa!
+
+Precisamos chegar as pessoas que não conhecem as comunidades de desenvolvimento de software.
+
 ### Conseguindo espaço
 
-### Conseguindo contatos
+Você pode tentar conseguir um espaço para o nosso projeto entrando em contato com seus/suas conhecidos(as) que possuem acesso a algum espaço e encaminhar à eles este formulário: [Espaço para palestras e workshops](https://trainingcentr.typeform.com/to/g4u160).
 
 ### Apoio
 
