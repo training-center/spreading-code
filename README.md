@@ -22,8 +22,7 @@ Queremos incentivar jovens a conhecerem a área de desenvolvimento e pessoas na 
 - [Como nos ajudar](#como-nos-ajudar)
     - [Divulgando nosso projeto](#divulgando-nosso-projeto)
     - [Conseguindo espaço](#conseguindo-espaço)
-    - [Apoio](#apoio)
-    - [Patrocínio](#patrocínio)
+    - [Apoio ou patrocínio](#apoio-ou-patrocínio)
 
 ## O que é o spreading-code
 
@@ -98,6 +97,4 @@ Precisamos chegar as pessoas que não conhecem as comunidades de desenvolvimento
 
 Você pode tentar conseguir um espaço para o nosso projeto entrando em contato com seus/suas conhecidos(as) que possuem acesso a algum espaço e encaminhar à eles este formulário: [Espaço para palestras e workshops](https://trainingcentr.typeform.com/to/g4u160).
 
-### Apoio
-
-### Patrocínio
+### Apoio ou patrocínio
