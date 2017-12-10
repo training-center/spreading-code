@@ -19,7 +19,6 @@ Queremos incentivar jovens a conhecerem a área de desenvolvimento e pessoas na 
 - [Como se juntar a causa](#como-se-juntar-a-causa)
     - [Quem pode se juntar](#quem-pode-se-juntar)
 - [Cedendo espaço](#cedendo-espaço)
-    - [O que precisamos no local](#o-que-precisamos-no-local)
 - [Como nos ajudar](#como-nos-ajudar)
     - [Divulgando nosso projeto](#divulgando-nosso-projeto)
     - [Conseguindo espaço](#conseguindo-espaço)
@@ -87,8 +86,6 @@ Qualquer pessoa com vontade de fazer a diferença na vida de alguém pode se jun
 ## Cedendo espaço
 
 Se você faz parte do corpo administrativo de alguma escola pública, ONG, empresa, faculdade ou espaço recreativo que possa receber nossas palestras e workshops, entre em contato através deste formulário: [Espaço para palestras e workshops](https://trainingcentr.typeform.com/to/g4u160).
-
-### O que precisamos no local
 
 ## Como nos ajudar
 
