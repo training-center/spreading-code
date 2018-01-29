@@ -79,7 +79,7 @@ Basta responder este formulário: [voluntariado spreading-code](https://training
 
 ### Quem pode se juntar
 
-Qualquer pessoa com vontade de fazer a diferença na vida de alguém pode se juntar a nossa causa. Só é necessário que se leia e respeite nosso [código de conduta](https://trainingcenter.io/sobre/CONDUCT), pois devemos garantir a segurança das pessoas envolvidas no projeto e das pessoas que receberão ajuda.
+Qualquer pessoa com vontade de fazer a diferença na vida de alguém pode se juntar a nossa causa. Só é necessário que se leia e respeite nosso [código de conduta](http://bit.ly/tc-conduct-code), pois devemos garantir a segurança das pessoas envolvidas no projeto e das pessoas que receberão ajuda.
 
 ## Cedendo espaço
 
